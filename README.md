@@ -16,3 +16,4 @@
 ![shields](https://img.shields.io/badge/Discord-PHantom%236955-%2372767D%20)
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Git-Phantom&theme=vue&show_icons=true)
