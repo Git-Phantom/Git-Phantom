@@ -8,6 +8,7 @@
 
 ![shields](https://img.shields.io/badge/E--mail-phantom99169%40gmail.com-%2372767D)
 ![shields](https://img.shields.io/badge/Discord-PHantom%236955-%2372767D%20)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Git-Phantom&theme=vue&show_icons=true)
 
 -->
 
@@ -15,4 +16,3 @@
 <img align="right" src="https://images.uncyc.org/pt/c/c7/Distraction_Dance.gif" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Phantom&layout=compact)](https://github.com/Git-Phantom/)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Git-Phantom&theme=vue&show_icons=true)
