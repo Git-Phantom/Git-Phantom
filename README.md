@@ -15,4 +15,4 @@
 
 <img align="right" src="https://images.uncyc.org/pt/c/c7/Distraction_Dance.gif" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Phantom&layout=compact)](https://github.com/Git-Phantom/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Phantom&)](https://github.com/Git-Phantom/)
