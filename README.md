@@ -7,11 +7,11 @@
 * 📝 Skills [ Console ] : 𝗥𝘂𝗯𝘆 and 𝗦𝗵𝗲𝗹𝗹 𝗦𝗰𝗿𝗶𝗽𝘁.
 
 ![shields](https://img.shields.io/badge/E--mail-phantom99169%40gmail.com-%2372767D)
-![shields](https://img.shields.io/badge/Discord-PHantom%236955-%2372767D%20)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Git-Phantom&theme=vue&show_icons=true)
 
 -->
 
+![shields](https://img.shields.io/badge/Discord-PHantom%236955-%2372767D%20)
 
 <img align="right" src="https://images.uncyc.org/pt/c/c7/Distraction_Dance.gif" />
 
